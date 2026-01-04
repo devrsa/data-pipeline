@@ -255,5 +255,3 @@ For issues and questions:
 4. Check monitoring dashboard
 
 ---
-
-**Project Path**: `C:\Users\Student\Documents\data-engineering-pipelines\`
